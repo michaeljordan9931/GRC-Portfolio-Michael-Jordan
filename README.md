@@ -1,5 +1,5 @@
 # GRC-Portfolio-Michael-Jordan
-Collection of GRC projects covering ISO 27001, PCI DISS, and Risk assessments
+Collection of GRC projects covering ISO 27001, PCI DISS, and Risk Assessments
 
 Governance, Risk, and Compliance (GRC) Portfolio Summary
 
