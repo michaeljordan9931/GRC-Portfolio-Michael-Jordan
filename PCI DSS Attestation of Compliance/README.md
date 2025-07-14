@@ -8,10 +8,8 @@ Assessed six core PCI DSS domains, including firewall configuration, cardholder 
 
 
 Identified areas of non-compliance and recommended actionable remediation strategies for:
-
-Delayed encryption key rotation (compensating controls were implemented temporarily).
-
-Shared administrator accounts and incomplete MFA coverage.
+- Delayed encryption key rotation (compensating controls were implemented temporarily).
+- Shared administrator accounts and incomplete MFA coverage.
 
 
 
