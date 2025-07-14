@@ -1,1 +1,12 @@
+Project Summary: ISO 27001 Control Prioritization and Implementation Plan
 
+
+
+Based on my gap analysis of SecureTech’s current security posture, I identified and prioritized
+the three most critical ISO 27001 controls requiring immediate implementation. I justified the
+selection of these controls by assessing their potential risk and impact on the organization. For
+each control, I developed a detailed implementation plan outlining specific action steps, a
+timeline, required resources (including personnel, technology, and budget), and a method for
+monitoring the effectiveness of each control after implementation. The goal was to close key
+compliance gaps, strengthen SecureTech’s information security framework, and reduce the
+organization’s exposure to threats.
