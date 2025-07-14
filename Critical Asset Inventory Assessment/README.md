@@ -5,8 +5,11 @@ As part of SecureTech’s cybersecurity enhancement initiative, a comprehensive 
 Key activities included:
 
 Identification and Documentation: Over 40 assets were identified and cataloged across six categories: Data, Systems & Applications, Third-Party Platforms, Security Tools, and Physical Infrastructure.
+
 Impact Classification: Each asset was evaluated and assigned an impact level—High, Medium, or Low—based on potential operational, financial, and security risks if compromised.
 High-Impact Assets: Included customer financial records, production servers, CRM systems, firewalls, SIEM, VPN, and third-party payment processors.
 Medium-Impact Assets: Included marketing tools, HR systems, and public-facing web assets.
 Low-Impact Assets: Included non-sensitive data and peripheral tools such as the company blog and public press releases.
+
+
 The asset inventory was compiled into a structured spreadsheet (Google Sheets format) and submitted for review. This deliverable will serve as the foundation for implementing tailored cybersecurity controls in alignment with the NIST Cybersecurity Framework, supporting improved risk management and strategic security planning.
